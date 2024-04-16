@@ -13,6 +13,7 @@ This project is a simple and stylish login page template built using HTML and CS
 # Technologies Used
 * HTML: Markup language for structuring the login form and page layout.
 * CSS: Styling language for designing the appearance and visual elements of the login page.
+* JavaScript: Used for Perform Logics
 * GitHub Pages: Hosting platform used to deploy the project and make it accessible online.
 # View Live
  https://abaid78.github.io/Login-Page/
